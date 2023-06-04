@@ -1,0 +1,16 @@
+.booking section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.booking {
+    padding: 3rem 0 0 0;
+    gap: 2rem;
+}
+
+
+
+.booking h1 {
+    text-align: center;
+}
